@@ -1,8 +1,10 @@
 <script setup>
+import Header from './components/Header.vue';
+
 </script>
 
 <template>
-  <h1>Hello Calendar for RR</h1>
+  <Header/>
 </template>
 
 <style scoped>
